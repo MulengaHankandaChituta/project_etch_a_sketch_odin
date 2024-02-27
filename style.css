@@ -1,0 +1,12 @@
+#container {
+  width: 320px;
+  height: 320px;
+  border: 1px solid black;
+}
+.square {
+  width: 18px;
+  height: 18px;
+  background-color: lightray;
+  float: left;
+  border: 1px solid gray;
+}
